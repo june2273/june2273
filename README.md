@@ -31,8 +31,8 @@ AI가 실시간으로 피아노 건반 입력을 분석하여 자동 반주·연
 ---
 
 ## 📫 Contact
-- Email: ***your-email***
-- LinkedIn / Blog: *(optional)*
+- Email: ***june227321@gmail.com***
+- LinkedIn / Blog: **
 
 ---
 
