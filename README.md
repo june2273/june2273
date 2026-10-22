@@ -1,7 +1,6 @@
 # Junyeong Song
 
 B.S. Software & Communication Engineering, Hongik University (Sejong) · Undergraduate Researcher, VibeLab
-[한국어 README](README.ko.md)
 
 > I build learning systems for music and audio: separating and analyzing the sources in recorded music, controlling audio under tight latency, and coordinating many agents with reinforcement learning.
 
