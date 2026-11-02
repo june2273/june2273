@@ -29,6 +29,7 @@ B.S. Software & Communication Engineering, Hongik University (Sejong) · Undergr
 | Project | What | Status |
 |---|---|---|
 | **Phantom Performer** | | 🔒 Ongoing |
+| [**Compose-AllinOne**](https://github.com/june2273/ComposeAllinOne) | Tempo, key, onset and note transcription written from scratch in TypeScript (own FFT) from published methods, plus a Python sidecar running Demucs, Beat This!, RMVPE and All-In-One for stems, beats, melody and song structure. | 🔧 Ongoing |
 | [**OrchestraMSS**](https://github.com/june2273/OrchestraMSS) | Separates one orchestral recording with two systems, a SynthSOD baseline (X-UMX) and a 53-stem BS-RoFormer model, for per-instrument A/B listening in the browser. Inference adapted to a 16 GB Apple Silicon Mac (10 s chunks, only the selected stem heads computed). | ✅ Presented (Sep 2026) |
 | [**LowLatencyMSS**](https://github.com/june2273/LowLatencyMSS) | Survey and experiment design for real-time music source separation: the quality–latency–compute trade-off, and whether spectrogram and hybrid models swap rank at monitoring-level latency (~5–10 ms). | 📚 Study & talk; implementation planned |
 | [**Distinguishing Professional and Amateur Piano Performances using 2D Audio Features and Convolutional Neural Networks**](https://github.com/june2273/DPAP) | Re-implemented the pipeline and added confound checks. A CNN that reaches ~99% on 1-second clips turns out to detect the recording, not the pianist: ablations trace the accuracy to room reverb and microphone noise floor. | Seminar paper, PyGeek 2026 (co-author) |
@@ -37,8 +38,7 @@ B.S. Software & Communication Engineering, Hongik University (Sejong) · Undergr
 
 ## Projects
 
-### Music AI
-- [**Compose-AllinOne**](https://github.com/june2273/ComposeAllinOne): tempo, key, onset and note transcription written from scratch in TypeScript (own FFT) from published methods, plus a Python sidecar running Demucs, Beat This!, RMVPE and All-In-One for stems, beats, melody and song structure.
+### Music Theory
 - [**Chord-Tutor**](https://github.com/june2273/Chord-Tutor): browser-based harmony and ear-training drills on rendered sheet music and a sampled piano, covering intervals (reading and building, up to doubly augmented/diminished), key signatures and the circle of fifths; diatonic chords next.
 
 ### Real-time Audio
