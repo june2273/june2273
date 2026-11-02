@@ -63,6 +63,7 @@ B.S. Software & Communication Engineering, Hongik University (Sejong) · Undergr
 |---|---|---|
 | Design Pattern Programming | [**BankingSystem**](https://github.com/june2273/BankingSystem) (team) | Java console banking system on H2. Four layers by SOLID; Template Method for transactions, Repository for persistence. Led the pattern, object-oriented and DB design |
 | Data Science | [**Titanic**](https://github.com/june2273/Titanic) | Exploratory analysis and visualization of survival by class, sex and family size |
+| Data Science | [**korean-news-wordcloud**](https://github.com/june2273/korean-news-wordcloud) | Noun frequency analysis of a Korean news article with KoNLPy; top-20 bar chart and word cloud |
 | Communication Programming | [**CRC**](https://github.com/june2273/CRC) | CRC detection rates for single, double, odd and burst errors over 20,000 trials per generator |
 
 </details>
