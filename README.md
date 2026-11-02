@@ -42,7 +42,7 @@ B.S. Software & Communication Engineering, Hongik University (Sejong) · Undergr
 - [**Chord-Tutor**](https://github.com/june2273/Chord-Tutor): browser-based harmony and ear-training drills on rendered sheet music and a sampled piano, covering intervals (reading and building, up to doubly augmented/diminished), key signatures and the circle of fifths; diatonic chords next.
 
 ### Real-time Audio
-- **CRD-AUDIO** 🔒: system-audio sidecar for remote desktop. Core Audio tap → WebRTC/Opus to the browser in ~0.13 s (iPhone Safari), MP3 fallback, Chrome MV3 overlay.
+- [**CRD-AUDIO**](https://github.com/june2273/CRD-AUDIO): system-audio sidecar for remote desktop. Core Audio tap → WebRTC/Opus to the browser in ~0.13 s (iPhone Safari), MP3 fallback, Chrome MV3 overlay.
 
 ### Multi-Agent RL
 - [**GreenWave**](https://github.com/june2273/GreenWave): MAPPO with a centralized critic for traffic-signal control, modeled on Sejong's BRT corridor (SUMO, RLlib, PettingZoo). In a 2×2 BRT simulation vs. fixed-time signals: mean wait −36.7%, bus wait −52.0%. 🏆
